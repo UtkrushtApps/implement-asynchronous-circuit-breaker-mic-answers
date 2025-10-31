@@ -1,0 +1,5 @@
+fastapi
+redis[asyncio]>=4.3
+httpx
+uvicorn
+python-dotenv
